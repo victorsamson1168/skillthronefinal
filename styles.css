@@ -74,3 +74,12 @@
   height: 70px;
   width: 70px;;
 }
+
+@media only screen and (max-device-width: 480px) {
+  .poo{
+    font-size: 0.5 rem;
+  }
+} 
+ .re{
+   color: red;
+ }
